@@ -1,0 +1,3 @@
+﻿  Vectors.cpp
+C:\Users\evan_\source\repos\C++\Vectors\Vectors\Vectors.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Vectors.vcxproj -> C:\Users\evan_\source\repos\C++\Vectors\x64\Debug\Vectors.exe
